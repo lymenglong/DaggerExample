@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DaggerExample</string>
+    <string name="sth_err">Error</string>
+</resources>
